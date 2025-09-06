@@ -109,6 +109,6 @@ By applying the above strategies:
 
 ## 📂 Repository Contents 
 - [BDM Presentation](https://www.canva.com/design/DAGvZGPaKJs/6Lw1f5zLTHvHZK5li9jy0w/edit?utm_content=DAGvZGPaKJs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
-- [BDM-Cleaned Data.xlsx](chttps://docs.google.com/spreadsheets/d/1c9ezZvWDVIatw2t3mHNt-RjFgijO8D8F/edit?usp=sharing&ouid=113051615845337562697&rtpof=true&sd=true)
+- [BDM-Cleaned Data.xlsx](https://docs.google.com/spreadsheets/d/1c9ezZvWDVIatw2t3mHNt-RjFgijO8D8F/edit?usp=sharing&ouid=113051615845337562697&rtpof=true&sd=true)
 
 
